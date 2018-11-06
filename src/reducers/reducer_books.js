@@ -1,21 +1,25 @@
 export default function() {
     return [
       {
-        title: "Javascript: The Good Parts",
-        pages: 101
+        title: "Fullstack React: The Complete Guide to ReactJS and Friends",
+        pages: 198
       },
       {
-        title: "Harry Potter",
-        pages: 39
+        title: "React Design Patterns and Best Practices",
+        pages: 320
       },
       {
-        title: "The Dark Tower",
-        pages: 150
+        title: "React Components",
+        pages: 459
       },
       {
-        title: "Eloquent Ruby",
-        pages: 1
-      }
+        title: "Deep Learning With Python Illustrated Guide",
+        pages: 350
+      },
+      {
+        title: "React and React Native",
+        pages: 620,
+      },
     ];
   }
   
